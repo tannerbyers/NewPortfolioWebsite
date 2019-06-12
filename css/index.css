@@ -143,3 +143,8 @@ h1 {
         width: 100%;
     }
 }
+
+footer {
+    text-align: center;
+    background-color: #F5F5F5;
+}
